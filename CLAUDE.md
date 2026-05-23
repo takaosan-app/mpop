@@ -6,6 +6,7 @@
 > **Bundle ID**: `app.takaosan.mpop`
 > **Supabaseプロジェクト**: 作成済み（My Park Our Parks）
 > **Apple Developer Program**: 登録済み
+> **ブランド基本色**: 水色（アイコンの空色を基調）
 > **ターゲット地域**: 日本国内
 > **最終更新**: 2026-05-23
 

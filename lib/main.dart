@@ -30,7 +30,7 @@ class MyApp extends StatelessWidget {
       title: 'My Park Our Parks',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        colorScheme: ColorScheme.fromSeed(seedColor: const Color(0xFF2D6A4F)),
+        colorScheme: ColorScheme.fromSeed(seedColor: const Color(0xFF42AEEA)),
         useMaterial3: true,
       ),
       home: const AppShell(),
